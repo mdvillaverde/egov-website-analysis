@@ -24,11 +24,11 @@ Each principle was then divided into its different guidelines, which was then fu
 
 ### Country Column ###
 Under this column, the websites being analysed are categorized into three main categories: G2C, G2B and G2G
-|**Column**|**Description**|
-| -- | -- | 
-|Government-to-Citizen (G2C)|The interaction between government agencies and their citizens|
-|Government-to-Business (G2B)|The interaction between government agencies and business owners|
-|Government-to-Government (G2G)|The interaction between the different government agencies, on a national, state or local level of government|
+|**Column**|**Description**| **Websites Included**|
+| -- | -- | -- |
+|Government-to-Citizen (G2C)|The interaction between government agencies and their citizens| National Driver's Licence Servce, National Tax Service, National Immigration Service, National Health Insurance System, National Social Security System, Civil Service Commission Admission Portal, National Open data|
+|Government-to-Business (G2B)|The interaction between government agencies and business owners| Online Registration of Businesses, Filing Tax for Businesses|
+|Government-to-Government (G2G)|The interaction between the different government agencies, on a national, state or local level of government| Village Service Portal (ID) / Barangay Information System (PH), Government Official Assets Report Portal|
 
 ### Data Results ###
 The reserach provided three different results: 0, 1, NA
