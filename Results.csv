@@ -1,0 +1,84 @@
+WCAG 2.1 Guidelines,,,,Indonesia,,,,,,,,,,,Philippines,,,,,,,,,,
+,,,,Government-to-Citizen (G2C),,,,,,,Government-to-Business (G2B),,Government-to-Government (G2G),,Government-to-Citizen (G2C),,,,,,,Government-to-Busines (G2B),,Government-to-Government (G2G),
+Principles,Guidelines,Success Criteria,Confornance Level,https://www.digitalkorlantas.id/,https://djponline.pajak.go.id/,http://www.imigrasi.go.id,https://bpjs-kesehatan.go.id/#/,https://www.bpjsketenagakerjaan.go.id/,https://sscasn.bkn.go.id/,https://www.data.go.id/,https://oss.go.id/,https://djponline.pajak.go.id/,http://layanan.desa.id/,https://elhkpn.kpk.go.id,https://portal.lto.gov.ph/ords/f?p=1200:HOME,https://efps.bir.gov.ph/,https://immigration.gov.ph/,https://www.philhealth.gov.ph/,https://www.sss.gov.ph/,https://www.csc.gov.ph/,https://www.data.gov.ph/index/home,https://business.gov.ph/,https://esales.bir.gov.ph/SALES/login.html,https://www.barangayinfosys.com/,https://www.coa.gov.ph/
+Perceivable,Text Alternatives,Non-text Content,A,0,NA,NA,NA,0,1,1,0,NA,0,NA,NA,1,NA,0,0,1,NA,NA,NA,1,NA
+,Time-based Media,Audio-only and Video-only (Prerecorded),A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Captions (Prerecorded),A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Audio Description or Media Alternative (Prerecored),A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Captions (Live),AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Audio Description (Prerecorded),AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Sign Language (Prerecorded),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Extended Audio Description (Prerecorded),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Media Alternative (Prerecorded),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Audio-only (Live),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Adaptable,Info and Relationships,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,0,1,1,NA,NA,NA,1,NA
+,,Meaningful Sequence,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Sensory Characteristics,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Orientation,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Identify Input Purpose,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Identify Purpose,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Distinguishable,Use of Color,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Audio Control,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Contrast (Minimum),AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Resize text,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Images of Text,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Contrast (Enhanced),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Low or No Background Audio,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Visual Presentation,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Images of Text (No Exception),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Reflow,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Non-Text Contrast,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Text Spacing,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Content on Hover or Focus,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Operable,Keyboard Accessible,Keyboard,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,No Keyboard Trap,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Keyboard (No exception),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Character Key Shortcuts,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Enough Time,Timing Adjustable,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,"Pause, Stop, Hide",A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,No Timing,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Interruptions,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Re-authenticating,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Timeouts,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Seizures,Three Flashes or Below Threshold,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Three Flashes,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Animation from Interactions,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Navigable,Bypass Blocks,A,1,NA,NA,NA,0,1,1,0,NA,1,NA,NA,1,NA,0,0,0,NA,NA,NA,1,NA
+,,Page Tilted,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Focus Order,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Link Purpose (In Context),A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Multiple Ways,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Headings and Labels,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Focus Visible,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Location,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Link Purpose (Link Only),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Section Headings,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Input Modalities,Pointer Gestures,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Pointer Cancellation,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Label in Name,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Motion Actuation,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Target Size,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Concurrent Input Mechanisms,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Understandable,Readable,Language of Page,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,0,NA,1,1,1,NA,NA,NA,1,NA
+,,Language of Parts,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Unusual Words,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Abbreviations,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Reading Level,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Pronunciation,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Predictable,On Focus,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,On Input,A,1,NA,NA,NA,0,1,1,1,NA,1,NA,NA,1,NA,1,0,0,NA,NA,NA,1,NA
+,,Consistent Navigation ,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Consistent Identification,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Change on Request,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,Input Assistance,Error Identification ,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Labels or Instructions,A,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Error Suggestion,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,"Error Prevention (Legal, Financial, Data)",AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Help,AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,Error Prevention (All),AAA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Robust,Compatible,Parsing,A,0,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,0,0,NA,NA,NA,1,NA
+,,"Name, Role, Value",A,1,NA,NA,NA,0,0,0,0,NA,0,NA,NA,1,NA,1,0,1,NA,NA,NA,1,NA
+,,Status Messages,AA,1,NA,NA,NA,1,1,1,1,NA,1,NA,NA,1,NA,1,1,1,NA,NA,NA,1,NA
